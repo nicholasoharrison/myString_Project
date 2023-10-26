@@ -1,0 +1,29 @@
+OUTPUT FILE
+
+Testing print: test
+
+Testing addEnd: testing
+
+Testing addStart: ingtesting
+
+Testing partString with out of bound values (after they are corrected): ingtesting
+
+Testing replPartString with string animal: ---mal----
+
+Testing compare string 
+str is the same as name (should be 0): 0
+str is the same as animal (should be 1): 1
+
+Animal before resetting string: animal
+
+Testing setStr on animal, assigning ladder string to it: 
+Animal before setString (should be empty): 
+Animal after setString: ladder
+
+Testing getString on ladder: ladder
+
+Testing numericString and alphabeticString
+Is ladder numeric (should be 0): 0
+Is number1 numeric (should be 1): 1
+Is ladder alphabetic (should be 1): 1
+Is number1 alphabetic (should be 0): 0

@@ -1,0 +1,88 @@
+
+constructor called with string value: test
+allocateMemory() function called with size: 5
+copyString() function called with length: 4
+printStringScreen function called for string: test
+getString() function called returning: test
+constructor called with string value: ing
+allocateMemory() function called with size: 4
+copyString() function called with length: 3
+addEnd() function called adding string: test to: ing
+copyString() function called with length: 4
+copyString() function called with length: 3
+releaseMemory() function called for string: test, getting string: testing
+printStringScreen function called for string: testing
+getString() function called returning: testing
+addStart() function called adding string: ing to: testing
+copyString() function called with length: 3
+copyString() function called with length: 7
+releaseMemory() function called for string: testing, getting string: ingtesting
+printStringScreen function called for string: ingtesting
+getString() function called returning: ingtesting
+partString() function called giving an output of: test
+getString() function called returning: ingtesting
+releaseMemory() function called for string: ingtesting
+allocateMemory() function called with size: 11
+copyString() function called with length: 10
+setString() function called setting string: ---------- to string: ----------
+constructor called with string value: animal
+allocateMemory() function called with size: 7
+copyString() function called with length: 6
+replPartString() function called with string: animal, from postion: 3 and length: 2
+copyString() function called with length: 2
+printStringScreen function called for string: ---mal----
+getString() function called returning: ---mal----
+constructor called with string value: name
+allocateMemory() function called with size: 5
+copyString() function called with length: 4
+releaseMemory() function called for string: ---mal----
+allocateMemory() function called with size: 5
+copyString() function called with length: 4
+replWholeString() function called replacing string: name with string: name
+printStringScreen function called for string: name
+compareString() function called comparing string: name to string: name
+compareString() function called comparing string: name to string: name
+printStringScreen function called for string: animal
+getString() function called returning: animal
+releaseMemory() function called for string: animal
+allocateMemory() function called with size: 1
+initString() function called
+printStringScreen function called for string: 
+getString() function called returning: 
+constructor called with string value: ladder
+allocateMemory() function called with size: 7
+copyString() function called with length: 6
+printStringScreen function called for string: 
+getString() function called returning: 
+getString() function called returning: ladder
+releaseMemory() function called for string: 
+allocateMemory() function called with size: 7
+copyString() function called with length: 6
+setString() function called setting string: ladder to string: ladder
+printStringScreen function called for string: ladder
+getString() function called returning: ladder
+getString() function called returning: ladder
+getString() function called returning: ladder
+constructor called with string value: 12345
+allocateMemory() function called with size: 6
+copyString() function called with length: 5
+numericString() function called on string: ladder
+numericString() function called on string: 12345
+alphabeticString() function called on string: ladder
+alphabeticString() function called on string: 12345
+numericString() function called on string: ladder
+numericString() function called on string: 12345
+alphabeticString() function called on string: ladder
+alphabeticString() function called on string: 12345
+destructor called with string value: 12345
+releaseMemory() function called for string: 12345
+destructor called with string value: ladder
+releaseMemory() function called for string: ladder
+destructor called with string value: name
+releaseMemory() function called for string: name
+destructor called with string value: ladder
+releaseMemory() function called for string: ladder
+destructor called with string value: ing
+releaseMemory() function called for string: ing
+destructor called with string value: name
+releaseMemory() function called for string: name
